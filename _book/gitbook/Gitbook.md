@@ -107,15 +107,6 @@ a|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|cca|b|c
  ####       "emphasize",
 
 
-This text is {% e %}highlighted !{% endem %}
-
-This text is {% e %}highlighted with **markdown**!{% endem %}
-
-This text is {% e type="green" %}highlighted in green!{% endem %}
-
-This text is {% e type="red" %}highlighted in red!{% endem %}
-
-This text is {% e color="#ff0000" %}highlighted with a custom color!{% endem %}
 
 #### accordion
 
