@@ -139,15 +139,7 @@ a|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|ca|b|cca|b|c
 
 ####         "click-reveal"
 
-{% reveal %}
-要被隐藏的内容
-{% endreveal %}
 
-
-
-{% reveal text="点击显示" %}
-要被隐藏的内容
-{% endreveal %}
 
 
 #### mathjax
