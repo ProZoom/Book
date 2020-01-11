@@ -1,0 +1,7 @@
+h1 , h2{
+    border-bottom: 10px solid #EFEAEA;
+}
+
+input[type=checkbox]{
+    margin-left: -2em;
+}
